@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1591625208 source:d:\my first programm\Путеводитель по городу\main.cpp
+	<graphics.h>
+	<conio.h>
+	<stdio.h>
+	"My.h"
+	<malloc.h>
+
+1266065414 d:\a.sh.v\krsu\ОАП\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1591615626 d:\my first programm\Путеводитель по городу\my.h
+
+1591521810 source:d:\my first programm\Путеводитель по городу\photos.c
+	"My.h"
+	<graphics.h>
+	<stdio.h>
+	<conio.h>
+
+1591521810 source:d:\my first programm\Путеводитель по городу\reference.c
+	"My.h"
+	<graphics.h>
+	<stdio.h>
+	<conio.h>
+	<malloc.h>
+
+1591521810 source:d:\my first programm\Путеводитель по городу\places.c
+	"My.h"
+	<graphics.h>
+	<stdio.h>
+	<conio.h>
+	<malloc.h>
+
+1591522380 source:d:\my first programm\Путеводитель по городу\map.c
+	"My.h"
+	<graphics.h>
+	<stdio.h>
+	<conio.h>
+	<malloc.h>
+	<dos.h>
+

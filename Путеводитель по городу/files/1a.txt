@@ -1,0 +1,6 @@
+Currency_:_KGS(Som)
+Fly_from_Moscow_:_~_3150_km_,_4_hour
+Local_time_:_+_3_hour_with_Moscow 
+Capital_:_Bishkek 
+Phone_code_:_+996
+Launguges_spoken_:_Kyrgyz_,_Rissian_,Uzbek_,_Tadjik
